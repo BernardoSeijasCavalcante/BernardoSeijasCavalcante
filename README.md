@@ -7,7 +7,7 @@
 <hr>
 <div>
   <h2>🔭 Objetivos</h2>
-  <p>Terminar minha formação nos vários cursos que faço na Udemy de desenvolvimento WEB, Mobile, Java e Python e, é claro, concluir minha graduação. Quando tiver conhecimento bem consolidado sobre as diversas linguagens que pretendo aprender, meu objetivo será desenvolver softwares </p>
+  <p>Terminar minha formação nos vários cursos que faço na Udemy de desenvolvimento WEB, Mobile, Java e Python e, é claro, concluir minha graduação. Quando tiver conhecimento bem consolidado sobre as diversas linguagens que pretendo aprender, meu objetivo será desenvolver softwares diversos para portfólio, como sistemas de caixa e gestão de estoque de supermercado, APIs e Web Services, sites, jogos e entre outras coisas que vierem a calhar.</p>
   
   [![Udemy](https://img.shields.io/badge/Udemy-Meus%20Cursos-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/multilaseu/) <<(Só usuários Udemy conseguem visualizar)
 
