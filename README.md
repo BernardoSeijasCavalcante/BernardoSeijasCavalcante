@@ -64,7 +64,7 @@
         <p>Um repositório com todas as atividades que eu fiz do curso de Java COMPLETO Programação Orientada a Objetos + Projetos, do professor Nélio Alves da Udemy. Nele encontram-se atividades com a implementação de tecnologias como JDBC, JPA/Hibernate, SpringBoot com documentação que eu mesmo fiz para cada atividade com anotações, observações e passo-a-passo de como realizar as atividades. </p>
       </td>
       <td>
-        Até agora...
+        02/07/2024
       </td>
     </tr>
   </table>
